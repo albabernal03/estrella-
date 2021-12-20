@@ -11,7 +11,7 @@ En esta tarea hemos utilizado el módulo conocido como 'turtle' que permite crea
 
 ***
 
-<h2>Diagrma de flujo:</h2>
+<h2>Diagrama de flujo:</h2>
 
 ***
 
