@@ -13,7 +13,7 @@ if puntas_estrella == 9 and 36 and 18:
 else:
      angulo= num1 - (num2/puntas_estrella)
 
-for i in range (puntas_estrella+1):
+for i in range (puntas_estrella):
     turtle.forward(longitud)
     turtle.right(angulo)
 
