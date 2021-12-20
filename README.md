@@ -5,6 +5,6 @@
 Este es el link del [repositorio](https://github.com/albabernal03/estrella-)
 
 ***
-<h2>¿De qué trata?:</h2>
+<h2>¿De qué trata?</h2>
 
 ***
