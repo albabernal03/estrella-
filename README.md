@@ -13,6 +13,9 @@ En esta tarea hemos utilizado el módulo conocido como 'turtle' que permite crea
 
 <h2>Diagrama de flujo:</h2>
 
+![diagrama de flujo](https://user-images.githubusercontent.com/91721875/146825699-743bec85-cc81-46f1-b544-be8df02cbe53.jpg)
+
+
 ***
 
 <h2>Código:</h2>
