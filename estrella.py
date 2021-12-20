@@ -1,17 +1,20 @@
 import turtle
 
-#Para mostrar el puntero
 
-turtle.showturtle()
-
-#Seleccionar color de relleno
-turtle.fullcolor('yellow')
-turtle.begin_fill()
+puntas_estrella= int(input('Seleccione el número de puntas de la estrella:'))
 
 longitud=100
-angulo=160
+num1=180
+num2=360    
+num3= 120
 
-for i in range (10):
+if puntas_estrella == 9 or 18 or 36:
+    angulo= (360/puntas_estrella) + num3
+else:
+    angulo= num1 - (num2/puntas_estrella)
+
+for i in range (puntas_estrella+1):
     turtle.forward(longitud)
     turtle.right(angulo)
 
+turtle.showturtle()
